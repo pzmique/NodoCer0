@@ -29,8 +29,7 @@
 }
 
 body.light-theme {
-    --bgAboutCon-color: rgba(255, 255, 255, 0.55);
-    --bgAbout-color: rgba(0, 0, 0, 0.496);
+    --bgAbout-color: rgba(255, 255, 255, 0.96);
     --btnGen-color: rgb(0, 0, 0);
     --bgbox-color: rgba(75, 75, 75, 0.11);
     --bg-color: #f5f7fb;
@@ -45,8 +44,7 @@ body.light-theme {
 }
 
 body.dark-theme {
-    --bgAbout-color: rgba(255, 255, 255, 0.55);
-    --bgAboutCon-color: rgba(0, 0, 0, 0.496);
+    --bgAbout-color: rgb(7, 7, 7););
     --btnGen-color: rgba(0, 69, 143, 0.342);
     --bgbox-color: #1e293b44;
     --bg-color: #080d16;
