@@ -44,7 +44,7 @@ body.light-theme {
 }
 
 body.dark-theme {
-    --bgAbout-color: rgb(7, 7, 7););
+    --bgAbout-color: rgb(7, 7, 7);
     --btnGen-color: rgba(0, 69, 143, 0.342);
     --bgbox-color: #1e293b44;
     --bg-color: #080d16;
