@@ -30,6 +30,13 @@
 
 body.light-theme {
     --bgAbout-color: rgba(255, 255, 255, 0.96);
+    --about-overlay-top: rgba(18, 18, 18, 0.78);
+    --about-overlay-mid: rgba(255, 255, 255, 0.16);
+    --about-overlay-bottom: rgba(255, 255, 255, 0.9);
+    --about-text-color: #ffffff;
+    --benefit-card-bg: rgba(17, 24, 39, 0.05);
+    --benefit-card-hover-bg: rgba(13, 110, 253, 0.12);
+    --benefit-card-border: rgba(17, 24, 39, 0.08);
     --btnGen-color: rgb(0, 0, 0);
     --bgbox-color: rgba(75, 75, 75, 0.11);
     --bg-color: #f5f7fb;
@@ -45,6 +52,13 @@ body.light-theme {
 
 body.dark-theme {
     --bgAbout-color: rgb(7, 7, 7);
+    --about-overlay-top: rgba(2, 6, 23, 0.9);
+    --about-overlay-mid: rgba(15, 23, 42, 0.45);
+    --about-overlay-bottom: rgba(255, 255, 255, 0.18);
+    --about-text-color: #f8fafc;
+    --benefit-card-bg: rgba(148, 163, 184, 0.08);
+    --benefit-card-hover-bg: rgba(96, 165, 250, 0.18);
+    --benefit-card-border: rgba(148, 163, 184, 0.18);
     --btnGen-color: rgba(0, 69, 143, 0.342);
     --bgbox-color: #1e293b44;
     --bg-color: #080d16;
