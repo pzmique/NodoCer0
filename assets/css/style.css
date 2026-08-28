@@ -313,7 +313,7 @@ main {
 
     inset: 0;
     background-color: rgba(0, 0, 0, 0.507);
-     background: linear-gradient(to bottom, rgb(0,0,0) 50%, var(--bgAbout-color) 100%);
+     background: linear-gradient(to bottom, rgb(0,0,0,0.10) 50%, var(--bgAbout-color) 100%);
 }
 .aboutSectionContent {
     position: relative;
